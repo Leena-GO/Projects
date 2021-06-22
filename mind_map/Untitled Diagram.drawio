@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T02:39:01.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="z_bHIvdEpdTjGKJwUzfk" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T02:40:12.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Vdsxqbz11iQsm6mK-L8M" version="14.8.0" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1673" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="otnFeGUagMU2zySuc4kF-128" value="반입" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1075" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="otnFeGUagMU2zySuc4kF-130" value="OCR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="otnFeGUagMU2zySuc4kF-130" value="OCR" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1362" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="otnFeGUagMU2zySuc4kF-131" value="하이라이팅" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
